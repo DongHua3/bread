@@ -24,7 +24,7 @@
 
 a = input('请输入第一段内容：')
 b = input('请输入第二段内容：')
-print('长度是：',len(a+b))
+print('长度是：',len(a+b))1
 
 
 
